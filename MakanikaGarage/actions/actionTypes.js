@@ -1,0 +1,47 @@
+export const GET_PAYMENTS = 'GET_PAYMENTS';
+export const GET_PAYMENT = 'GET_PAYMENT';
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_IN_ERROR = 'SIGN_IN_ERROR';
+export const FIND_TOWING = 'FIND_TOWING';
+export const TOP_UP = 'TOP_UP';
+export const SEND_PAYMENTS = 'SEND_PAYMENTS';
+export const SHARE_BALANCE = 'SHARE_BALANCE';
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const GET_PRODUCTS = 'GET_PRODUCTS';
+export const GET_PRODUCTS_BY_CATEGORY = 'GET_PRODUCTS_BY_CATEGORY';
+export const GET_VEHICLES = 'GET_VEHICLES';
+export const GET_POLICIES = 'GET_POLICIES';
+export const LOGOUT = 'LOGOUT';
+export const GET_SERVICES = 'GET_SERVICES';
+export const BUY_INSURANCE = 'BUY_INSURANCE';
+export const GET_PRODUCT = 'GET_PRODUCT';
+export const REQUEST_INSURANCE = 'REQUEST_INSURANCE';
+export const GET_QUOTATIONS = 'GET_QUOTATIONS';
+export const GET_QUOTATION = 'GET_QUOTATION';
+export const REGISTER_USER = 'REGISTER_USER';
+export const LOGIN_USER = 'LOGIN_USER';
+export const GET_LOAN_APPLICATIONS = 'GET_LOAN_APPLICATIONS';
+export const GET_REQUESTS = 'GET_REQUESTS';
+export const GET_REQUEST = 'GET_REQUEST';
+export const POST_JOB_AMOUNT = 'POST_JOB_AMOUNT';
+export const GET_INSURANCES = 'GET_INSURANCES';
+export const GET_INSURANCE = 'GET_INSURANCE';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const GET_TOKEN = 'GET_TOKEN';
+export const APPLY_FOR_LOAN = 'APPLY_FOR_LOAN';
+export const GET_LOANS = 'GET_LOANS';
+export const GET_LOAN = 'GET_LOAN';
+export const GET_WALLET_TRANSACTIONS = 'GET_WALLET_TRANSACTIONS';
+export const POST_WALLET_TRANSACTION = 'GET_WALLET_TRANSACTION';
+export const GET_WALLET_TOTAL = 'POST_WALLET_TOTAL';
+export const GET_SAVINGS = 'GET_SAVINGS';
+export const GET_TOTAL_SAVINGS = 'GET_TOTAL_SAVINGS';
+export const ADD_SAVING = 'ADD_SAVING';
+export const GET_QUOTE = 'GET_QUOTE';
+
+
+ 
+
+
+
